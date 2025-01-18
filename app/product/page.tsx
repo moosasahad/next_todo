@@ -1,11 +1,11 @@
 import React from 'react'
 
-function page() {
+function Home() {
   return (
     <div>
-      hallow
+      
     </div>
   )
 }
 
-export default page
+export default Home
